@@ -1,4 +1,4 @@
-# 🧮 StatCalc: Neumorphic CLI Statistical Calculator
+# 🧮 Statcalc : Neumorphic CLI Statistical Calculator
 **StatCalc** is a modern, lightweight, web-based statistical calculator built with React.js. It elegantly bridges the gap between retro Command Line Interfaces (CLI) and modern Neumorphic (soft UI) design, providing a tactile, interactive, and highly functional tool for instant statistical data analysis.
 ## ✨ Value Proposition & Key Features
 Unlike standard calculators that perform basic arithmetic, StatCalc is engineered specifically for **dataset analysis**.
@@ -47,6 +47,63 @@ npm install
 # 4. Start the development server
 npm start
 
+```
+
+## 📦 Installation & Local Development
+
+Choose the setup guide based on your operating system environment:
+
+### 📱 Android (Termux)
+```bash
+# Update system and install Git + Node.js
+pkg update && pkg upgrade -y
+pkg install git nodejs -y
+
+# Clone the repository
+git clone https://github.com/risnandi-commits/StatisticalCalculator
+
+# Navigate to the project folder
+cd StatisticalCalculator
+
+# Install project dependencies
+npm install
+
+# Start the development server
+npm start
+```
+
+### 🐧 Linux (Ubuntu/Debian based)
+```bash
+# Update package list and install Git + Node.js (and npm)
+sudo apt update && sudo apt upgrade -y
+sudo apt install git nodejs npm -y
+
+# Clone the repository
+git clone https://github.com/risnandi-commits/StatisticalCalculator
+
+# Navigate to the project folder
+cd StatisticalCalculator
+
+# Install project dependencies
+npm install
+
+# Start the development server
+npm start
+```
+
+### 💻 Windows (Command Prompt / CMD)
+```cmd
+:: 1. Clone the repository
+git clone https://github.com/risnandi-commits/StatisticalCalculator
+
+:: 2. Navigate to the project folder
+cd StatisticalCalculator
+
+:: 3. Install project dependencies
+npm install
+
+:: 4. Start the development server
+npm start
 ```
 ## 📜 License
 This project is open-source and available under the MIT License. Feel free to fork, modify, and use it in your own projects!
