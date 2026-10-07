@@ -36,10 +36,10 @@ The outer chassis uses precise box-shadow techniques (shadow-[20px_20px_60px_#be
 To run this project locally:
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/risnandi-commits/statcalc.git](https://github.com/risnandi-commits/statcalc.git)
+git clone [https://github.com/risnandi-commits/StatisticalCalculator](https://github.com/risnandi-commits/StatisticalCalculator)
 
 # 2. Navigate to the directory
-cd statcalc
+cd StatisticalCalculator
 
 # 3. Install dependencies
 npm install
