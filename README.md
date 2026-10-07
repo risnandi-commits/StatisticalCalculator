@@ -32,22 +32,6 @@ The outer chassis uses precise box-shadow techniques (shadow-[20px_20px_60px_#be
  2. **Add to Dataset:** Press the green **ADD** button. The number will be pushed to the dataset array displayed on the CLI screen. Repeat this for all your data points.
  3. **Calculate:** Once your dataset is populated, press any of the blue statistical operation buttons (e.g., **Mean**, **Std**, **Var**).
  4. **Clear/Edit:** Use **DEL** to remove the last typed character, or the red **AC** button to clear the entire dataset and start over.
-## 📦 Installation & Local Development
-To run this project locally:
-```bash
-# 1. Clone the repository
-git clone [https://github.com/risnandi-commits/StatisticalCalculator](https://github.com/risnandi-commits/StatisticalCalculator)
-
-# 2. Navigate to the directory
-cd StatisticalCalculator
-
-# 3. Install dependencies
-npm install
-
-# 4. Start the development server
-npm start
-
-```
 
 ## 📦 Installation & Local Development
 
